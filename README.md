@@ -12,3 +12,5 @@ Insipiration:
 ![Insipiration](http://g-ecx.images-amazon.com/images/G/01/videogames/detail-page/tropico.04.06.lg.jpg)
 
 ![Navalbattle](https://dl.dropbox.com/u/11164236/navalbattle/nb0.5_04.png)
+
+![Unknown](http://www.blogcdn.com/massively.joystiq.com/media/2009/01/os376_war_425.jpg)
