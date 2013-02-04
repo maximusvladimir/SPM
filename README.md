@@ -4,7 +4,7 @@ SMP
 Spanish Pirate Mafia
 
 
-Spanish Pirate Mafia is a ship and land based adventure game. The player journeys through the ocean to randomly generated islands, where they may encounter pirates, hostile natives, and the undead.
+Spanish Pirate Mafia is a closed source 3D ship and land based adventure game. The player journeys through the ocean to randomly generated islands, where they may encounter pirates, hostile natives, and the undead.
 
 
 Insipiration:
