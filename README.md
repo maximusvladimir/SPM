@@ -1,4 +1,4 @@
-SMP
+SPM
 ===
 
 Spanish Pirate Mafia
@@ -14,3 +14,5 @@ Insipiration:
 ![Navalbattle](https://dl.dropbox.com/u/11164236/navalbattle/nb0.5_04.png)
 
 ![Unknown](http://www.blogcdn.com/massively.joystiq.com/media/2009/01/os376_war_425.jpg)
+
+![Unknown3](http://i.imgur.com/dCBnj.jpg)
